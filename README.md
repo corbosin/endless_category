@@ -1,2 +1,2 @@
-Вся логика в разделе /categories
-запуск php artisan serve и npm run dev
+1. Вся логика в разделе /categories
+2. запуск php artisan serve и npm run dev
